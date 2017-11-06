@@ -260,7 +260,7 @@ return [
 	'app_current_password' => 'Current password',
 	'app_new_password' => 'New password',
 	'app_password_confirm' => 'New password confirmation',
-	'app_dashboard_text' => 'You are logged in!',
+	'app_dashboard_text' => 'Accesso effettuato!',
 	'app_forgot_password' => 'Forgot your password?',
 	'app_remember_me' => 'Remember me',
 	'app_login' => 'Login',
